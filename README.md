@@ -14,3 +14,7 @@ In terminal, run this to install all dependencies
 ```bash
 npm i -s bootstrap react-icons lodash jquery popper.js moment react-moment
 ```
+To start running, run this then go to localhost:3000 in browser
+```bash
+npm start
+```
