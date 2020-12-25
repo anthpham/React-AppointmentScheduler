@@ -1,6 +1,6 @@
 # React Appointment Scheduler
 
-* [Ray Villalobos](https://raybo.org/) created this course and project for LinkedIn Learning.*
+* [Ray Villalobos](https://raybo.org/) created this course and project for LinkedIn Learning. This is not an original project.
 
 ## Screenshot
 ![Screenshot of appointment scheduler interface.](screenshot.PNG)
